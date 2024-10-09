@@ -11,11 +11,12 @@ int X,Y;
 cin>>X>>Y;
 
 if(X >= (2*Y)){ 
-    cout << "Yes\n"; 
+    cout << "Yes"; 
     }
 
 
 else{
     cout<<"No";
 }
+return 0;
 }
