@@ -2,10 +2,10 @@
 using namespace std;
 
 int main() {
-	// your code goes here
+	// your code goes here //codechef
 int T;
 cin>>T;
-for(int i =0 ; i<T;i++){
+for(int i = 0 ; i<T;i++){
     int X,Y;
     cin>>X>>Y;
     if(Y>=X){
