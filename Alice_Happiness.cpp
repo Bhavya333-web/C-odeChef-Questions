@@ -7,10 +7,10 @@ Y marks in the same test. Alice is happy if she scored at least twice the marks 
 #include <iostream>
 using namespace std;
 int main(){
-int X,Y;
+int X,Y,Z;
 cin>>X>>Y;
 
-if(X >= (2*Y)){ 
+if(X >= (2*Y*Z)){ 
     cout << "Yes"; 
     }
 
