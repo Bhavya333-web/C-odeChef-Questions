@@ -7,7 +7,8 @@ int X;
 cin>>X;
 
 if(X==404){
-    cout<<"NOT FOUND";
+
+    cout <<"NOT FOUND ";
 }
 else{
     cout<<"FOUND";
