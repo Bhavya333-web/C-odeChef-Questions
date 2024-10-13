@@ -8,7 +8,8 @@ int main() {
     
     cin >> S;
     
-    // Output the 8th character (index 7)
+    // Output the 8th character(index 7)
+    
     cout << S[7] << endl;
     
     return 0;
