@@ -6,7 +6,8 @@ int main() {
 	int X,Y;
 	
 	cin>>X>>Y;
-	int z= 7-(X+Y);
-	cout<< z;
+	int Z= 7-(X+Y);
+
+	cout<< Z;
 
 }
