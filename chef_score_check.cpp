@@ -10,7 +10,7 @@ for(int i=0;i<T;i++){
     int X,N;
     cin>>X>>N;
     
-    cout<<(X/10)*N<<endl;
+    cout<<(X/100)*N<<endl;
     
 }
 }
