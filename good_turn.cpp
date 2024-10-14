@@ -9,6 +9,7 @@ int main() {
         int x,y;
         cin>>x>>y;
         if(x+y>6){
+            
           cout<<"YES" <<endl;  
         }
         else{
